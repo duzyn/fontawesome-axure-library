@@ -3,6 +3,10 @@ FontAwesome Axure Library
 
 FontAwesome icofont for Axure 7+
 
+## Demo
+
+![FontAwesome Axure Library](./widgets.png)
+
 ## How to use FontAwesome in Axure
 
 1. Install the [FontAwesome font](https://github.com/duzyn/fontawesome-axure-library/blob/master/fonts/FontAwesome.otf?raw=true) to your fonts directory.
