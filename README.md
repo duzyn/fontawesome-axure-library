@@ -1,7 +1,7 @@
 FontAwesome Axure Library
 =========================
 
-FontAwesome icofont for Axure 7+
+FontAwesome icon font for Axure 7+
 
 ## Demo
 
@@ -20,5 +20,5 @@ FontAwesome icofont for Axure 7+
 
 ## Download
 
--	For Axure 7: [FontAwesomeV4.10_7.rplib](FontAwesomeV4.1.0_7.rplib)
--	For Axure 8: [FontAwesomeV4.10_7.rplib](FontAwesomeV4.1.0_8.rplib)
+-	For Axure 7: [FontAwesomeV4.10_7.rplib](FontAwesomeV4.1.0_7.rplib?raw=true)
+-	For Axure 8: [FontAwesomeV4.10_7.rplib](FontAwesomeV4.1.0_8.rplib?raw=true)
