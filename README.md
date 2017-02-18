@@ -18,7 +18,7 @@ FontAwesome icon font for Axure 7+
 
 3. Download FontAwesome Axure Library below for free and load it your library. Then you can use it to your prototypes.
 
-See [the demo rp file] for how to use it.(./demo.rp?raw=true)
+See [the demo rp file](./demo.rp?raw=true) for how to use it.
 
 ## Download
 
