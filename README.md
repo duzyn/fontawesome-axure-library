@@ -9,7 +9,7 @@ FontAwesome icon font for Axure 7+
 
 ## How to use FontAwesome in Axure
 
-1. Install the [FontAwesome font](https://github.com/duzyn/fontawesome-axure-library/blob/master/fonts/FontAwesome.otf?raw=true) to your fonts directory.
+1. Install the [FontAwesome font](./fonts/FontAwesome.otf?raw=true) to your fonts directory.
 
 2. Click Publish > Generate HTML Files, In the popup box add FontAwesone in Web Fonts section.
 	
@@ -17,6 +17,8 @@ FontAwesome icon font for Axure 7+
 	- URL: https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css
 
 3. Download FontAwesome Axure Library below for free and load it your library. Then you can use it to your prototypes.
+
+See [the demo rp file] for how to use it.(./demo.rp?raw=true)
 
 ## Download
 
